@@ -1,8 +1,12 @@
 import React from 'react'
+import Everything from '../components/Everything'
+
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <div>
+      <Everything/>
+    </div>
   )
 }
 
