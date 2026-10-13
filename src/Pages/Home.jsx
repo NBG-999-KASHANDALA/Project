@@ -1,10 +1,12 @@
 import React from 'react'
+import Maintop from '../Components/Maintop'
 
 const Home = () => {
   return (
-    <div>       
-        
-    
+    <div>
+      <main>
+        <Maintop/>
+      </main>
     </div>
   )
 }
