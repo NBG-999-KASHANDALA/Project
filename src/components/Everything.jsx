@@ -5,7 +5,7 @@ const Everything = () => {
     <div className="bg-[#f8f9fa] min-h-screen py-16 px-6 font-sans text-slate-800  ">
       <div className="max-w-6xl mx-auto space-y-20 ">
         
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center bg-gray-400 ">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center ">
           <div>
             <h1 className="text-4xl lg:text-5xl font-serif text-slate-900 leading-tight mb-10">
               We will take care of everything, so you can get back to relaxing.
